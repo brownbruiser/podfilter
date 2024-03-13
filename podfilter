@@ -67,7 +67,6 @@ ItemDisplay[GOLD>4999]: %NAME%
 ItemDisplay[rvl]: %NL%%PURPLE% R %WHITE%70% %NL%%GOLD%<<BASIC>>
 ItemDisplay[hp4 CLVL<70]: %RED%!%WHITE%H<<BASIC>>
 ItemDisplay[mp4 CLVL<70]: %BLUE%!%WHITE%M<<BASIC>>
-ItemDisplay[mp5]: %BLUE% !%WHITE%M+  <<BASIC>>
 ItemDisplay[rvs]: %NL%%PURPLE% r %WHITE%35% %PURPLE%%NL%%GOLD%<<BASIC>>
 ItemDisplay[hp1 CLVL<15]: %RED%!%WHITE%Minor Heal<<BASIC>>
 ItemDisplay[hp2 CLVL<18]: %RED%!%WHITE%Light Heal<<BASIC>>
